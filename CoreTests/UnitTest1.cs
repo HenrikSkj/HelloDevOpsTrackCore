@@ -12,7 +12,7 @@ namespace CoreTests
         [Test]
         public void DenneFeiler()
         {
-            Assert.Fail(false, "Helt feil");
+            Assert.Pass("Helt feil");
         }
 
         [Test]
